@@ -1,0 +1,20 @@
+﻿CACHE MANIFEST
+# Ver 0.1.0
+# 001
+
+CACHE:
+
+game_tens_plain.htm
+game_tens_plain_canva.js
+game_tens_plain_config.js
+game_tens_plain_lang.js
+game_tens_plain_main.js
+game_tens_plain_model.js
+game_tens_plain_ui.js
+
+
+NETWORK:
+
+*
+
+FALLBACK:
