@@ -1,4 +1,9 @@
-﻿"use strict";
+﻿// ============================
+// Разработчик: apelserg ; https://github.com/apelserg/
+// Лицензия: WTFPL
+// ============================
+
+"use strict";
 
 //===
 // Базовый объект - мяч
@@ -248,7 +253,7 @@ APELSERG.MODEL.RacketBallKickback = function (ball, racket) {
 }
 
 //===
-// Сместить левую ракетку по горизонтали вверх
+// Сместить левую ракетку вверх
 //===
 APELSERG.MODEL.RacketLeftShiftUp = function () {
 
@@ -260,7 +265,7 @@ APELSERG.MODEL.RacketLeftShiftUp = function () {
 }
 
 //===
-// Сместить левую ракетку по горизонтали вниз
+// Сместить левую ракетку вниз
 //===
 APELSERG.MODEL.RacketLeftShiftDown = function () {
 
@@ -296,7 +301,7 @@ APELSERG.MODEL.RacketLeftShiftBack = function () {
 }
 
 //===
-// Сместить правую ракетку по горизонтали вверх
+// Сместить правую ракетку вверх
 //===
 APELSERG.MODEL.RacketRightShiftUp = function () {
 
@@ -308,7 +313,7 @@ APELSERG.MODEL.RacketRightShiftUp = function () {
 }
 
 //===
-// Сместить правую ракетку по горизонтали вниз
+// Сместить правую ракетку вниз
 //===
 APELSERG.MODEL.RacketRightShiftDown = function () {
 
